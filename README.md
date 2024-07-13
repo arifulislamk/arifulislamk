@@ -14,7 +14,7 @@
 ## 🌟 Current Overview
 
 <div align="left">
-<a href="https://app.daily.dev/arifulislamk"><img align="right" src="https://github.com/arifulislamk/arifulislamk/blob/main/All-images/arifulislamk%20(3).png" width="200" alt="Ariful's Dev Card"/></a>
+<a href="https://app.daily.dev/arifulislamk"><img align="right" src="https://github.com/arifulislamk/arifulislamk/blob/main/All-images/arifulislamk.png" width="200" alt="Ariful's Dev Card"/></a>
 </div>
 
 ### 👨‍💻 I’m working - as a Junior Web Developer, specializing in React, JavaScript, MongoDB, and Tailwind CSS. 
