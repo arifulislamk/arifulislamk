@@ -32,7 +32,7 @@
 ### 👨‍💻 I’m working - as a Web Developer, specializing in React, JavaScript,Express js MongoDB, and Tailwind CSS. 
 ### 🤔 🚀 I’m trying - to become a full-stack web developer and create impactful projects that help people.
 ### 📘 I’m exploring - programming languages like C, Paython and Java, as well as diving into data structures and algorithms at university.. 
-### 👯 I’m looking - to collaborate on open-source projects in web development and problem solve in c team project. 
+### 👯 I’m looking - to collaborate on open-source projects in web development team project. 
 <br />
 
 ## <h1>💡 My Skills</h1>
