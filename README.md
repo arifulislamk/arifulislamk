@@ -29,10 +29,15 @@
 <a href="https://app.daily.dev/arifulislamk"><img align="right" src="https://github.com/arifulislamk/arifulislamk/blob/main/All-images/arifulislamk.png" width="200" alt="Ariful's Dev Card"/></a>
 </div>
 
-### 👨‍💻 I’m working - as a Web Developer, specializing in React, JavaScript,Express js MongoDB, and Tailwind CSS. 
-### 🤔 🚀 I’m trying - to become a full-stack web developer and create impactful projects that help people.
-### 📘 I’m exploring - programming languages like C, Paython and Java, as well as diving into data structures and algorithms at university.. 
-### 👯 I’m looking - to collaborate on open-source projects in web development team project. 
+### 👨‍💻 I’m working
+as a **Software Engineer & Full-Stack Web Developer**, specializing in **React.js, JavaScript, Node.js, Express.js, MongoDB, and Tailwind CSS**.
+### 🚀 I’m building
+real-world web applications and impactful projects that solve practical problems and provide great user experiences.
+### 📘 I’m learning
+**Data Structures & Algorithms, System Design**, and strengthening my knowledge of **C, Python, and Java**.
+### 🤝 I’m looking
+to collaborate on **open-source projects, full-stack applications, and team-based software development projects**.
+
 <br />
 
 ## <h1>💡 My Skills</h1>
