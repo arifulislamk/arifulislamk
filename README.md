@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Md Ariful Islam.</h1>
 <br />
 <a href="https://www.linkedin.com/in/robin-arif">
-<img src="https://github.com/arifulislamk/arifulislamk/blob/main/1716487604077.jpg" />
+<img src="https://github.com/arifulislamk/arifulislamk/blob/main/ariful bannar.png" />
 </a>
 
 ## 🌐 Socials:
