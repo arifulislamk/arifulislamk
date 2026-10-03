@@ -30,7 +30,7 @@
 </div>
 
 ### 👨‍💻 I’m working
-as a **Software Engineer & Full-Stack Web Developer**, specializing in **React.js, JavaScript, Node.js, Express.js, MongoDB, and Tailwind CSS**.
+as a **Software Engineer & App Developer, Full-Stack Web Developer**, specializing in **React.js, JavaScript, Node.js, Express.js, MongoDB, and Tailwind CSS**.
 ### 🚀 I’m building
 real-world web applications and impactful projects that solve practical problems and provide great user experiences.
 ### 📘 I’m learning
